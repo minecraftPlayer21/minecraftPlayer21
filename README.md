@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:  I'm a second-year Computer Engineering student at the University of Toronto who got into web development through YouTube videos and have been documenting my learning journey on GitHub.
 
 
-[![Malak's GitHub stats](https://github-readme-stats.vercel.app/api?username=minecraftPlayer21)](https://github.com/minecraftPlayer21/github-readme-stats)
+![Malak's GitHub stats](https://github-readme-stats.vercel.app/api?username=minecraftPlayer21&show_icons=true&theme=radical)
