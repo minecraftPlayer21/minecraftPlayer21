@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Hey, I'm <span style="color:#F472B6;">Malak</span> — Frontend Magician & Creative Technologist</h1>
+<h1 align="center">🌟 Hey, I'm <span style="color:#F472B6;">Malak</span> — I like to build...idk</h1>
 
 <p align="center">
   <strong>🖥️ Computer Engineering @ UofT</strong> · <strong>🎨 Web & 3D Enthusiast</strong> · <strong>⚙️ Embedded & AI Tinkerer</strong>  
@@ -16,16 +16,17 @@
 
 ### 🚧 What I’m Building
 
-- 🎨 **Beginner Web Dev Coding Portfolio**  
+- 🎨 **Web Dev Coding Portfolio**  
   A responsive and animated portfolio that proves anyone can start learning by doing.  
-  👉 [Live Demo](https://malakkhalifa-codingportfolio.netlify.app/)
+  👉 [Live Demo](https://malakkhalifa.com/)
 
 - 🤖 **Gesture Ink**  
   An AI-powered, no-touch writing system built with OpenCV + MQTT + glove sensors.  
-  👉 [GitHub](https://github.com/minecraftPlayer21/Hand-Movement-Controllled-Projet)
+  👉 [GitHub](https://github.com/minecraftPlayer21/gestureink-makeuoft-2025.git)
 
-- ✨ **3D Portfolio Experiments**  
-  Exploring **GSAP**, **ScrollTrigger**, and **React Three Fiber** to create interactive web environments with smooth transitions and 3D scenes.
+- 🌍 **GISelle – Smart Navigation System for Safety**  
+  A GIS-based mapping tool focused on **women’s safety**, combining **multi-destination Dijkstra**, **A\*** pathfinding, and real-time responsiveness.  
+  👉 [GitHub](https://github.com/minecraftPlayer21/giselle-ece297.git) · [Demo](https://drive.google.com/file/d/1ZqqvSZlfG-oxGxM2vKJ8t9Unu_PgmEsV/view?usp=sharing)
 
 ---
 
