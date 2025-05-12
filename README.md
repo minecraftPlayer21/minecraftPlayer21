@@ -79,8 +79,6 @@ I'm open to:
 
 - 🎓 Second-year CE student @ UofT  
 - 📺 Learned to code from YouTube  
-- 🏋️‍♀️ I lift weights *and* lift pixels  
-- 💥 Still just getting started...
 
 ---
 
